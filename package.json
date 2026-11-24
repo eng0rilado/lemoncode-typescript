@@ -1,0 +1,22 @@
+{
+  "name": "lemoncode-javascript-typescript",
+  "version": "1.0.0",
+  "description": "Entregable Javascript y Typescript",
+  "type": "module",
+  "scripts": {
+    "start": "tsx main.ts",
+    "build": "tsc"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "lemoncode"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}
