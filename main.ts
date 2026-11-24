@@ -1,6 +1,4 @@
-// =============================================================================
 // MAIN: USO DE FUNCIONES Y CLASES DE CADA EJERCICIO
-// =============================================================================
 
 import { head, tail, init, last } from "./01-array-operations";
 import { concat, concatMulti } from "./02-concat";

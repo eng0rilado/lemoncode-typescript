@@ -1,6 +1,4 @@
-// ==========================================
 // 5. Slot Machine
-// ==========================================
 
 /**
  * El objetivo de este ejercicio es crear una máquina tragaperras utilizando clases
